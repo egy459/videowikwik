@@ -8,7 +8,7 @@
       "admob_inter": "",
       "admob_native": "",
       "admob_open_ads":"",
-      "startappid": "203484946",
+      "startappid": "203139161",
       "select_ads": "STARTAPP",
       "select_backup_ads":"FACEBOOK",
       "fan_inter": "YOUR_PLACEMENT_ID",
@@ -26,25 +26,25 @@
 "More":
   [
     {
-      "title":"Alien Fake Video & Voice Call",
-      "image":"https://aliendro.id/uploads/images/202010/img_x500_5f75582ec5bde9-60192231-90169951.jpg",
-      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+      "title":"",
+      "image":"",
+      "link":""
     },{
-      "title":"Alien Skin Minecraft (MOD)",
-      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748b8941e1d9-76852947-35724018.jpg",
-      "link":"https://aliendro.id/alien-skin-craft-v11-3"
+      "title":"",
+      "image":"",
+      "link":""
     },{
-      "title":"Alien Guide Online Offline",
-      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f74855ee39148-62442722-70134250.jpg",
-      "link":"https://aliendro.id/alien-guide-online-offline-1"
+      "title":"",
+      "image":"",
+      "link":""
     },{
-      "title":"Alien Wallapper Json Online & Offline",
-      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748768ab9724-22614153-29713412.jpg",
-      "link":"https://aliendro.id/alien-wallapper-json-2"
+      "title":"",
+      "image":"",
+      "link":""
     },{
-      "title":"Alien Mp3 Player Online-Offline",
-      "image":"https://aliendro.id/uploads/images/202101/img_x500_60125c1e6ddcb1-49884358-38627561.jpg",
-      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+      "title":"",
+      "image":"",
+      "link":""
     }
   ],
 
@@ -52,14 +52,14 @@
 "Categories": 
   [
     {
-      "name_category": "Khalid Basalamah",
-      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+      "name_category": "2021",
+      "image": "https://ia601405.us.archive.org/10/items/screenshot-1../Screenshot_1...png"    
     }, {
-      "name_category": "Hanan Attaki",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+      "name_category": "2022",
+      "image": "https://ia801503.us.archive.org/18/items/screenshot-44_202204/Screenshot_44.png"    
     }, {
-      "name_category": "Yufid Tv",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+      "name_category": "2023",
+      "image": "https://ia801401.us.archive.org/20/items/screenshot-45/Screenshot_45.png"    
     }
   ],
 
@@ -68,43 +68,379 @@
   [
         {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Menabung Bukan Pangkal Kaya",
-      "image": "file:///android_asset/khb.jpeg",
-      "link_video": "https://aliendro.id/uploads/demo/videoonline/menabung.mp4",
-      "description": "Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta."
+      "name_category": "2021",
+      "title": "Enak, Udah lama",
+      "image": "https://ia601401.us.archive.org/7/items/1_20220418_20220418_1316/__ia_thumb.jpg",
+      "link_video": "https://ia801401.us.archive.org/7/items/1_20220418_20220418_1316/1.mp4",
+      "description": ""
     },
     {
       "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Istighfar untuk bertobat dan pengampun dosa",
-      "image": "file:///android_asset/khb.jpeg",
-      "link_video": "https://aliendro.id/uploads/demo/videoonline/istighfar.mp4",
-      "description": "Istighfar adalah bacaan untuk memohon ampun kepada Allah atas dosa-dosa yang diperbuat sebagai sarana seorang hamba untuk bertobat"
+      "name_category": "2021",
+      "title": "Baru Pertama Di Atas",
+      "image": "https://ia801505.us.archive.org/23/items/2_20220418_20220418_1317/__ia_thumb.jpg",
+      "link_video": "https://ia601505.us.archive.org/23/items/2_20220418_20220418_1317/2.mp4",
+      "description": ""
     },
     {
       "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Yakin dengan pertolongan Allah",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg",
-      "link_video": "https://ia601500.us.archive.org/7/items/yakin_202106/yakin.mp4",
-      "description": "Jika sudah teguh menerapkan aturan dan mengendalikan hawa nafsu, manusia harus yakin pertolongan Allah SWT pasti diberikan."
+      "name_category": "2021",
+      "title": "Jilatan Mu Membuat p2k ku banjir",
+      "image": "https://ia801409.us.archive.org/23/items/3_20220418_20220418_1317/__ia_thumb.jpg",
+      "link_video": "https://ia801409.us.archive.org/23/items/3_20220418_20220418_1317/3.mp4",
+      "description": ""
     },
     {
       "id": 4,
-      "name_category": "Yufid Tv",
-      "title": "Ternyata Dosa, Bukan Pahala",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png",
-      "link_video": "https://ia601404.us.archive.org/13/items/dosa_20210614/dosa.mp4",
-      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+      "name_category": "2021",
+      "title": "Sakit ahh... Tapi Enakk",
+      "image": "https://ia801405.us.archive.org/17/items/4_20220418_20220418_1317/__ia_thumb.jpg",
+      "link_video": "https://ia601405.us.archive.org/17/items/4_20220418_20220418_1317/4.mp4",
+      "description": ""
     },
     {
       "id": 5,
-      "name_category": "Yufid Tv",
-      "title": "Faedah Mengingat Kematian",
-      "image": "null",
-      "link_video": "https://aliendro.id/uploads/demo/videoonline/kematian.mp4",
-      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+      "name_category": "2021",
+      "title": "Disuruh ke Hotel Disuruh Ngewek..",
+      "image": "https://ia601501.us.archive.org/7/items/5_20220418_202204/__ia_thumb.jpg",
+      "link_video": "https://ia801501.us.archive.org/7/items/5_20220418_202204/5.mp4",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name_category": "2021",
+      "title": "Sama Ayang Yang Penting Enakk",
+      "image": "https://ia601402.us.archive.org/6/items/6_20220418_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601402.us.archive.org/6/items/6_20220418_20220418/6.mp4",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name_category": "2021",
+      "title": "Sama Sama Punya Sensasi Liar, Enak Banget Ngeweknya",
+      "image": "https://ia801408.us.archive.org/2/items/7_20220418_202204/__ia_thumb.jpg",
+      "link_video": "https://ia801408.us.archive.org/2/items/7_20220418_202204/7.mp4",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name_category": "2021",
+      "title": "Bikin Pengen Ngewek Terus Sama Doi",
+      "image": "https://ia801504.us.archive.org/35/items/8_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia801504.us.archive.org/35/items/8_20220418/8.mp4",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name_category": "2021",
+      "title": "Gak Tahan Liat Mukanya Sampe Ke Enakan Gitu",
+      "image": "https://ia801405.us.archive.org/7/items/9_20220418_202204/__ia_thumb.jpg",
+      "link_video": "https://ia801405.us.archive.org/7/items/9_20220418_202204/9.mp4",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name_category": "2021",
+      "title": "Asli Liar Banget Ceweknya",
+      "image": "https://ia601503.us.archive.org/22/items/10_20220418_20220418_1331/__ia_thumb.jpg",
+      "link_video": "https://ia801503.us.archive.org/22/items/10_20220418_20220418_1331/10.mp4",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name_category": "2022",
+      "title": "Bungkus Cewek Semalam Sepuasnya",
+      "image": "https://ia601500.us.archive.org/17/items/1_20220419_20220419_1541/__ia_thumb.jpg",
+      "link_video": "https://ia601500.us.archive.org/17/items/1_20220419_20220419_1541/1.mp4",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name_category": "2022",
+      "title": "Ceweknya Toket Bulat Bikin Betah kalau di goyang",
+      "image": "https://ia801408.us.archive.org/11/items/2_20220419_20220419_1541/__ia_thumb.jpg",
+      "link_video": "https://ia801408.us.archive.org/11/items/2_20220419_20220419_1541/2.mp4",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name_category": "2022",
+      "title": "Diajak Mantan Masih Enak Juga Goyangnya",
+      "image": "https://ia601501.us.archive.org/2/items/3_20220419_20220419_1541/__ia_thumb.jpg",
+      "link_video": "https://ia601501.us.archive.org/2/items/3_20220419_20220419_1541/3.mp4",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "name_category": "2022",
+      "title": "Bikin Pengen Ngewek Terus Sama Doi",
+      "image": "https://ia601402.us.archive.org/27/items/4_20220419_202204/__ia_thumb.jpg",
+      "link_video": "https://ia601402.us.archive.org/27/items/4_20220419_202204/4.mp4",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name_category": "2022",
+      "title": "Enak Setiap Hari Bisa Sama Doi Ngewek",
+      "image": "https://ia601405.us.archive.org/26/items/5_20220419/__ia_thumb.jpg",
+      "link_video": "https://ia801405.us.archive.org/26/items/5_20220419/5.mp4",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name_category": "2022",
+      "title": "Habis Olah Raga Kamar Sepi Ngewek Dulu Ah..",
+      "image": "https://ia801509.us.archive.org/7/items/6_20220419_202204/__ia_thumb.jpg",
+      "link_video": "https://ia601509.us.archive.org/7/items/6_20220419_202204/6.mp4",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "name_category": "2022",
+      "title": "Sama Sama Puas Ah...",
+      "image": "https://ia801404.us.archive.org/35/items/7_20220419_202204/__ia_thumb.jpg",
+      "link_video": "https://ia601404.us.archive.org/35/items/7_20220419_202204/7.mp4",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "name_category": "2022",
+      "title": "eman Kantor Ajakin Ngewekk..",
+      "image": "https://ia801505.us.archive.org/27/items/8_20220419_20220419/8.mp4",
+      "link_video": "https://ia801505.us.archive.org/27/items/8_20220419_20220419/__ia_thumb.jpg",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "name_category": "2022",
+      "title": " Teman Kelas Mulus Banget",
+      "image": "https://ia801500.us.archive.org/22/items/9_20220419_20220419_1543/9.mp4",
+      "link_video": "https://ia601500.us.archive.org/22/items/9_20220419_20220419_1543/__ia_thumb.jpg",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "name_category": "2022",
+      "title": " Tiba Tiba Di Telepon Gebetan",
+      "image": "https://ia801408.us.archive.org/9/items/10_20220419_202204/__ia_thumb.jpg",
+      "link_video": "https://ia801408.us.archive.org/9/items/10_20220419_202204/10.mp4",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "name_category": "2023",
+      "title": "Apem Mulus Bikin Sange",
+      "image": "https://ia801402.us.archive.org/19/items/3_20220419_20220419_2045/__ia_thumb.jpg",
+      "link_video": "https://ia601402.us.archive.org/19/items/3_20220419_20220419_2045/3.mp4",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "name_category": "2023",
+      "title": " Enakk Banget Sayang",
+      "image": "https://ia601508.us.archive.org/34/items/4_20220419_20220419/__ia_thumb.jpg",
+      "link_video": "https://ia601508.us.archive.org/34/items/4_20220419_20220419/4.mp4",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "name_category": "2023",
+      "title": "Gadis Bugil Tatoan",
+      "image": "https://ia801407.us.archive.org/23/items/5_20220419_20220419/__ia_thumb.jpg",
+      "link_video": "https://ia801407.us.archive.org/23/items/5_20220419_20220419/5.mp4",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "name_category": "2023",
+      "title": "Cewek Cantik Sangean",
+      "image": "https://ia601500.us.archive.org/14/items/9_20220419_20220419_2053/__ia_thumb.jpg",
+      "link_video": "https://ia601500.us.archive.org/14/items/9_20220419_20220419_2053/9.mp4",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "name_category": "2023",
+      "title": "Goyang Terus Sampai Crot",
+      "image": "https://ia601501.us.archive.org/10/items/10_20220419_20220419/__ia_thumb.jpg",
+      "link_video": "https://ia801501.us.archive.org/10/items/10_20220419_20220419/10.mp4",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "name_category": "2023",
+      "title": "Sudah Cantik Liar lagi Goyang Di ATAS",
+      "image": "https://ia801407.us.archive.org/25/items/8_20220419_20220419_2053/__ia_thumb.jpg",
+      "link_video": "https://ia601407.us.archive.org/25/items/8_20220419_20220419_2053/8.mp4",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "name_category": "2023",
+      "title": "Mulus Tatoan Bugil",
+      "image": "https://ia801504.us.archive.org/0/items/luna-maya-jadul/__ia_thumb.jpg",
+      "link_video": "https://ia601409.us.archive.org/18/items/7_20220419_20220419/7.mp4",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name_category": "2023",
+      "title": "Cewewknya Tidak Mau, Dipkasa Cowoknya",
+      "image": "https://ia601501.us.archive.org/7/items/6_20220419_20220419/__ia_thumb.jpg",
+      "link_video": "https://ia801501.us.archive.org/7/items/6_20220419_20220419/6.mp4",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "name_category": "2023",
+      "title": "Koleksi Pribadi Bersama",
+      "image": "https://ia601500.us.archive.org/31/items/11_20220419_20220419_2102/__ia_thumb.jpg",
+      "link_video": "https://ia601500.us.archive.org/31/items/11_20220419_20220419_2102/11.mp4",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "name_category": "2023",
+      "title": "udah, lama ndak di masukin.",
+      "image": "https://ia601406.us.archive.org/6/items/12_20220419_20220419_2102/__ia_thumb.jpg",
+      "link_video": "https://ia601402.us.archive.org/3/items/1_20220419_20220419_2043/1.mp4",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "name_category": "2021",
+      "title": "Tante Bohay",
+      "image": "https://ia801507.us.archive.org/22/items/tante-bohay/__ia_thumb.jpg",
+      "link_video": "https://ia801507.us.archive.org/22/items/tante-bohay/Tante%20Bohay.mp4",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "name_category": "2023",
+      "title": "Tante Enakk MAINNYA",
+      "image": "https://ia801404.us.archive.org/10/items/2_20220419_20220419_2045/__ia_thumb.jpg",
+      "link_video": "https://ia601404.us.archive.org/10/items/2_20220419_20220419_2045/2.mp4",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "name_category": "2022",
+      "title": "Tukang Pijet Diajak Ngewek.. Enak.",
+      "image": "https://ia601506.us.archive.org/18/items/tukang-pijet-diajak-ngewek..-enak/__ia_thumb.jpg",
+      "link_video": "https://ia801506.us.archive.org/18/items/tukang-pijet-diajak-ngewek..-enak/Tukang%20Pijet%20Diajak%20Ngewek..%20enak.mp4",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "name_category": "2021",
+      "title": "Yang Penting Jago Goyang Diatas",
+      "image": "https://ia801403.us.archive.org/16/items/yang-penting-jago-goyang-diatas/__ia_thumb.jpg",
+      "link_video": "https://ia601403.us.archive.org/16/items/yang-penting-jago-goyang-diatas/Yang%20Penting%20Jago%20Goyang%20Diatas.mp4",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "name_category": "2022",
+      "title": "Enak Banget Goyangmu",
+      "image": "https://ia601408.us.archive.org/13/items/14_20220418_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia801408.us.archive.org/13/items/14_20220418_20220418/14.mp4",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "name_category": "2023",
+      "title": "Pentil Kecil Tapi Asyik",
+      "image": "https://ia601506.us.archive.org/10/items/13_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia801506.us.archive.org/10/items/13_20220418/13.mp4",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "name_category": "2021",
+      "title": "Si Bulu Lebat, Mulus",
+      "image": "https://ia801402.us.archive.org/15/items/12_20220418_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia801402.us.archive.org/15/items/12_20220418_20220418/12.mp4",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "name_category": "2022",
+      "title": "Goyangan Mantap di Atas",
+      "image": "https://ia801506.us.archive.org/16/items/11_20220418_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601506.us.archive.org/16/items/11_20220418_20220418/11.mp4",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "name_category": "2023",
+      "title": "Pas Rumah Lagi Kosong",
+      "image": "https://ia601504.us.archive.org/22/items/10_20220418_20220418_1216/__ia_thumb.jpg",
+      "link_video": "https://ia801504.us.archive.org/22/items/10_20220418_20220418_1216/10.mp4",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "name_category": "2021",
+      "title": "Ceweknya Mulus Bikin Sange",
+      "image": "https://ia801505.us.archive.org/11/items/9_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601505.us.archive.org/11/items/9_20220418/9.mp4",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "name_category": "2022",
+      "title": "CEWEK mulus ",
+      "image": "https://ia801501.us.archive.org/7/items/7_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601501.us.archive.org/7/items/7_20220418/7.mp4",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "name_category": "2023",
+      "title": "Tetek Kecil Tapi mULUS",
+      "image": "https://ia601405.us.archive.org/24/items/6_20220418_202204/__ia_thumb.jpg",
+      "link_video": "https://ia801405.us.archive.org/24/items/6_20220418_202204/6.mp4",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "name_category": "2021",
+      "title": "jAGO goyang di atas",
+      "image": "https://ia801409.us.archive.org/13/items/5_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601409.us.archive.org/13/items/5_20220418/5.mp4",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "name_category": "2022",
+      "title": "Asyik Banget Goyangnya KAMU",
+      "image": "https://ia801508.us.archive.org/10/items/4_20220418_20220418/__ia_thumb.jpg",
+      "link_video": "https://ia601508.us.archive.org/10/items/4_20220418_20220418/4.mp4",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "name_category": "2023",
+      "title": "crot Di Goyang Kamu Yang",
+      "image": "https://ia801508.us.archive.org/7/items/3_20220418_20220418_1214/__ia_thumb.jpg",
+      "link_video": "https://ia801508.us.archive.org/7/items/3_20220418_20220418_1214/3.mp4",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "name_category": "2021",
+      "title": "Crot Di Mulut",
+      "image": "https://ia801401.us.archive.org/26/items/2_20220418_20220418_1214/__ia_thumb.jpg",
+      "link_video": "https://ia801401.us.archive.org/26/items/2_20220418_20220418_1214/2.mp4",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "name_category": "2022",
+      "title": "Goyangan Mu Asyik Banget Yang Diatas",
+      "image": "https://ia801403.us.archive.org/19/items/1_20220418_20220418_1214/__ia_thumb.jpg",
+      "link_video": "https://ia601403.us.archive.org/19/items/1_20220418_20220418_1214/1.mp44",
+      "description": ""
     }
   ]
 }
