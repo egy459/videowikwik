@@ -5,15 +5,15 @@
     {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
-      "admob_open_ads":"",
+      "admob_inter": "ca",
+      "admob_native": "ca",
+      "admob_open_ads":"ca",
       "startappid": "203139161",
       "select_ads": "STARTAPP",
-      "select_backup_ads":"FACEBOOK",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
+      "select_backup_ads":"",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_banner": "",
       "applovin_banner":"",
       "applovin_inter":"",
       "mopub_banner":"",
@@ -26,25 +26,53 @@
 "More":
   [
     {
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"APLIKASI",
+      "image":"jpg",
+      "link":"LINK"
     },{
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"ANAK",
+      "image":"jpg",
+      "link":"LINK"
     },{
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"SINGKAWANG",
+      "image":"jpg",
+      "link":"LINK"
     },{
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"NIH",
+      "image":"jpg",
+      "link":"LINK"
     },{
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"BOS",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"SENGGOL",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"DONG",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"SATU",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"MILYAR",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"DARI",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"APLIKASI",
+      "image":"jpg",
+      "link":"LINK"
+    },{
+      "title":"AMINN",
+      "image":"jpg",
+      "link":"LINK"
     }
   ],
 
@@ -52,14 +80,23 @@
 "Categories": 
   [
     {
-      "name_category": "2021",
-      "image": "https://ia601405.us.archive.org/10/items/screenshot-1../Screenshot_1...png"    
+      "name_category": "FILEM",
+      "image": "https://ia601401.us.archive.org/12/items/layarkaca21/layarkaca21_thumb.jpg"    
     }, {
-      "name_category": "2022",
-      "image": "https://ia801503.us.archive.org/18/items/screenshot-44_202204/Screenshot_44.png"    
+      "name_category": "VIDIO",
+      "image": "https://ia601409.us.archive.org/17/items/maxresdefault_20211116/unnamed.jpg"
     }, {
-      "name_category": "2023",
-      "image": "https://ia801401.us.archive.org/20/items/screenshot-45/Screenshot_45.png"    
+      "name_category": "18+",
+      "image": "https://ia601506.us.archive.org/15/items/download_20211116_1437/MMM.jpg"
+    }, {
+      "name_category": "FILM SEMI",
+      "image": "https://ia601409.us.archive.org/17/items/maxresdefault_20211116/maxresdefault.jpg"
+    }, {
+      "name_category": "Sexxxxyyyy Bokeh Full Vidio",
+      "image": "https://archive.org/download/screenshot-21_202111/Screenshot_21.png"
+    }, {
+      "name_category": "LINK DOWNLOAD",
+      "image": "https://archive.org/download/ddy6gvw-c4f7da06-bccf-4cce-b384-3d011e3bd0b1/ddy6gvw-c4f7da06-bccf-4cce-b384-3d011e3bd0b1.jpg"
     }
   ],
 
@@ -68,379 +105,481 @@
   [
         {
       "id": 1,
-      "name_category": "2021",
-      "title": "Enak, Udah lama",
-      "image": "https://ia601401.us.archive.org/7/items/1_20220418_20220418_1316/__ia_thumb.jpg",
-      "link_video": "https://ia801401.us.archive.org/7/items/1_20220418_20220418_1316/1.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "COLOK PACAR ORANG SEBELUM NIKAH ALUR CERITA FILM JEPANG",
+      "image": "https://ia801503.us.archive.org/20/items/colok-pacar-orang-sebelum-nikah-alur-cerita-film-jepang/maxresdefaultk.jpg",
+      "link_video": "https://ia801503.us.archive.org/20/items/colok-pacar-orang-sebelum-nikah-alur-cerita-film-jepang/COLOK%20PACAR%20ORANG%20SEBELUM%20NIKAH%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "Film ini mengisahkan sepasang kekasih yang akan melangsungkan pernikahan mereka , suatu ketika datanglah orang ketiga yang menghancurkan semua impian mereka berdua , siapakah orang tersebut , simak video ini hingga usai"
     },
     {
       "id": 2,
-      "name_category": "2021",
-      "title": "Baru Pertama Di Atas",
-      "image": "https://ia801505.us.archive.org/23/items/2_20220418_20220418_1317/__ia_thumb.jpg",
-      "link_video": "https://ia601505.us.archive.org/23/items/2_20220418_20220418_1317/2.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "BARU KENAL DUREN KU UDAH MAU DI BELAH ALUR CERITA FILM RIGODON 2012",
+      "image": "https://ia801505.us.archive.org/27/items/baru-kenal-duren-ku-udah-mau-di-belah-alur-cerita-film-rigodon-2012/maxresdefaultb.jpg",
+      "link_video": "https://ia601505.us.archive.org/27/items/baru-kenal-duren-ku-udah-mau-di-belah-alur-cerita-film-rigodon-2012/BARU%20KENAL%20DUREN%20KU%20UDAH%20MAU%20DI%20BELAH%20-%20ALUR%20CERITA%20FILM%20RIGODON%202012.mp4",
+      "description": "Film ini mengisahkan tentang wanita yang masih muda bertemu dengan seorang pria yang baik hati , suatu ketika wanita ini di php oleh pria tersebut yang berunjung permasalahan yang sangat rumit dan fatal ,, gimanakah kisahnya , simak video ini hingga usai . ADIOS"
     },
     {
       "id": 3,
-      "name_category": "2021",
-      "title": "Jilatan Mu Membuat p2k ku banjir",
-      "image": "https://ia801409.us.archive.org/23/items/3_20220418_20220418_1317/__ia_thumb.jpg",
-      "link_video": "https://ia801409.us.archive.org/23/items/3_20220418_20220418_1317/3.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "ANAK TEMANKU BOLEH JUGA ALUR CERITA FILM MOM' S FRIEND",
+      "image": "https://ia801401.us.archive.org/9/items/anak-temanku-boleh-juga-alur-cerita-film-mom-s-friend_202111/maxresdefault.jpg",
+      "link_video": "https://ia601401.us.archive.org/9/items/anak-temanku-boleh-juga-alur-cerita-film-mom-s-friend_202111/ANAK%20TEMANKU%20BOLEH%20JUGA%20-%20ALUR%20CERITA%20FILM%20MOM%27S%20FRIEND.mp4",
+      "description": "kali ini mengisahkan seorang wanita yang baru saja pulang dari bekerja dan akan tinggal untuk sementara waktu di rumah teman lamanya  , di sana ia bertemu dengan anak dari temanya tersebut yang sangat ahli dalam bermain game ff, gimanakah kisah selanjutnya mari kita simak bersama-sama"
     },
     {
       "id": 4,
-      "name_category": "2021",
-      "title": "Sakit ahh... Tapi Enakk",
-      "image": "https://ia801405.us.archive.org/17/items/4_20220418_20220418_1317/__ia_thumb.jpg",
-      "link_video": "https://ia601405.us.archive.org/17/items/4_20220418_20220418_1317/4.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "WANITA LEBIH PUAS DENGAN BURUNG YANG BESAR DAN BENGKOK ALUR CERITA FILM S AND ZEN 2",
+      "image": "https://ia801504.us.archive.org/31/items/wanita-lebih-puas-dengan-burung-yang-besar-dan-bengkok-alur-cerita-film-s-and-zen-2/maxresdefaulta.jpg",
+      "link_video": "https://ia601504.us.archive.org/31/items/wanita-lebih-puas-dengan-burung-yang-besar-dan-bengkok-alur-cerita-film-s-and-zen-2/WANITA%20LEBIH%20PUAS%20DENGAN%20BURUNG%20YANG%20BESAR%20DAN%20BENGKOK%20-%20ALUR%20CERITA%20FILM%20S%20AND%20ZEN_2.mp4",
+      "description": "ini mengisahkan seorang pria menerima suatu masalah di keluarganya , suatu ketika ia mendapatkan sebuah petunjuk untuk kelangsungan rumah tangga nya , nah petunjuk apakah yang di maksud , silahkan simak video ini hingga usai"
     },
     {
       "id": 5,
-      "name_category": "2021",
-      "title": "Disuruh ke Hotel Disuruh Ngewek..",
-      "image": "https://ia601501.us.archive.org/7/items/5_20220418_202204/__ia_thumb.jpg",
-      "link_video": "https://ia801501.us.archive.org/7/items/5_20220418_202204/5.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "PRIA HUMOR DAPAT GOA GADIS KEMBANG DESA ALUR CERITA FILM PARALUMAN 2021",
+      "image": "https://ia801509.us.archive.org/8/items/pria-humor-dapat-goa-gadis-kembang-desa-alur-cerita-film-paraluman-2021/maxresdefaultd.jpg",
+      "link_video": "https://ia601509.us.archive.org/8/items/pria-humor-dapat-goa-gadis-kembang-desa-alur-cerita-film-paraluman-2021/PRIA%20HUMOR%20DAPAT%20GOA%20GADIS%20KEMBANG%20DESA%20-%20ALUR%20CERITA%20FILM%20PARALUMAN%202021.mp4",
+      "description": "ini mengisahkan seorang wanita muda, yang baru saja tiba di sebuah barrio, jatuh cinta dengan seorang pria yang sudah menikah. Ketika orang-orang di sekitar mereka mulai ikut campur, romansa terlarang mereka diuji"
     },
     {
       "id": 6,
-      "name_category": "2021",
-      "title": "Sama Ayang Yang Penting Enakk",
-      "image": "https://ia601402.us.archive.org/6/items/6_20220418_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601402.us.archive.org/6/items/6_20220418_20220418/6.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "Kost Ini Di Bayar Dengan Goyangan Alur Cerita Film Deception Of Novelist",
+      "image": "https://ia601406.us.archive.org/23/items/kost-ini-di-bayar-dengan-goyangan-alur-cerita-film-deception-of-novelist/maxresdefault.jpg",
+      "link_video": "https://ia801406.us.archive.org/23/items/kost-ini-di-bayar-dengan-goyangan-alur-cerita-film-deception-of-novelist/kost%20ini%20di%20bayar%20dengan%20goyangan%20-%20Alur%20cerita%20film%20deception%20of%20novelist.mp4",
+      "description": "Jay, seoranng penulis novel, mulai hubungan gelapnya bersama dengan Elaine setelah rumah tangganya dengan Kiki makin tak harmonis. Namun, situasi berubah fatal saat Elaine dan teman-temannya memeras Jay. nah bagaimana kisah selanjutnya simak video ini hingga usa"
     },
     {
       "id": 7,
-      "name_category": "2021",
-      "title": "Sama Sama Punya Sensasi Liar, Enak Banget Ngeweknya",
-      "image": "https://ia801408.us.archive.org/2/items/7_20220418_202204/__ia_thumb.jpg",
-      "link_video": "https://ia801408.us.archive.org/2/items/7_20220418_202204/7.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "SEKOLAH IMPIAN PARA PRIA",
+      "image": "https://ia601500.us.archive.org/13/items/sekolah-impian-para-pria-alur-cerita-film/maxresdefault.jpg",
+      "link_video": "https://ia601500.us.archive.org/13/items/sekolah-impian-para-pria-alur-cerita-film/sekolah%20impian%20para%20pria%20-%20Alur%20cerita%20film.mp4",
+      "description": "film yang mengisahkan seorang siswi yang menjalani test ujian di sekolah nya , namun apa daya pada saat itu seorang pria malah mendekatinya ,sehingga ia pun jadi tidak fokus dalam mengerjakan tugas tersebut ,  nah apakah yang akan terjadi . silahkan simak video ini hingga usai"
     },
     {
       "id": 8,
-      "name_category": "2021",
-      "title": "Bikin Pengen Ngewek Terus Sama Doi",
-      "image": "https://ia801504.us.archive.org/35/items/8_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia801504.us.archive.org/35/items/8_20220418/8.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "JATUH CINTA PANDANGAN PERTAMA",
+      "image": "https://ia601507.us.archive.org/29/items/jatuh-cinta-pandangan-pertama-alur-cerita-film/maxresdefault.jpg",
+      "link_video": "https://ia601507.us.archive.org/29/items/jatuh-cinta-pandangan-pertama-alur-cerita-film/Jatuh%20cinta%20pandangan%20pertama%20-%20Alur%20cerita%20film.mp4",
+      "description": "pada kesempatan kali ini , mimin akan menceritakan sebuah film yang mengisahkan seorang pria yang jatuh cinta dengan wanita cantik di tempat ia bekerja , nah apakah ia akan berhasil mendapatkan cinta tersebut"
     },
     {
       "id": 9,
-      "name_category": "2021",
-      "title": "Gak Tahan Liat Mukanya Sampe Ke Enakan Gitu",
-      "image": "https://ia801405.us.archive.org/7/items/9_20220418_202204/__ia_thumb.jpg",
-      "link_video": "https://ia801405.us.archive.org/7/items/9_20220418_202204/9.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "PRIA YANG TERTIMPA DURIAN RUNTUH",
+      "image": "https://ia601400.us.archive.org/3/items/pria-yang-tertimpa-durian-runtuh-alur-cerita-film/maxresdefault.jpg",
+      "link_video": "https://ia601400.us.archive.org/3/items/pria-yang-tertimpa-durian-runtuh-alur-cerita-film/Pria%20yang%20tertimpa%20durian%20runtuh%20-%20Alur%20cerita%20film.mp4",
+      "description": "kali ini mimin akan menceritakan sebuah film yang mengisahkan , seorang pria yang berkenalan dengan wanita pada saat bersepeda , dan dari pandangan pertama pria tersebut langsung jatuh hati terhadapnya , nah apakah ia akan berhasil , simak video ini hingga usai"
     },
     {
       "id": 10,
-      "name_category": "2021",
-      "title": "Asli Liar Banget Ceweknya",
-      "image": "https://ia601503.us.archive.org/22/items/10_20220418_20220418_1331/__ia_thumb.jpg",
-      "link_video": "https://ia801503.us.archive.org/22/items/10_20220418_20220418_1331/10.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "KIRIM BARANG BONUS SERABIE LEMPIT",
+      "image": "https://ia601400.us.archive.org/31/items/kirim-barang-bonus-serabie-lempit-alur-cerita-film-jepang/maxresdefault.jpg",
+      "link_video": "https://ia601400.us.archive.org/31/items/kirim-barang-bonus-serabie-lempit-alur-cerita-film-jepang/KIRIM%20BARANG%20BONUS%20SERABIE%20LEMPIT%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "film ini mengisahkan seorang wanita yang bekerja sebagai pengantar barang , suatu ketika ia mendapatkan masalah dengan customer nya, apakah yang akan terjadi simak video ini hingga usai"
     },
     {
       "id": 11,
-      "name_category": "2022",
-      "title": "Bungkus Cewek Semalam Sepuasnya",
-      "image": "https://ia601500.us.archive.org/17/items/1_20220419_20220419_1541/__ia_thumb.jpg",
-      "link_video": "https://ia601500.us.archive.org/17/items/1_20220419_20220419_1541/1.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "M4M4 BULE K3T4GIHAN SINGKONG BR0ND0NG",
+      "image": "https://ia601506.us.archive.org/0/items/m-4-m-4-bule-k-3-t-4-gihan-singkong-br-0-nd-0-ng-alur-cerita-film-jepang/maxresdefault.jpg",
+      "link_video": "https://ia601506.us.archive.org/0/items/m-4-m-4-bule-k-3-t-4-gihan-singkong-br-0-nd-0-ng-alur-cerita-film-jepang/M4M4%20BULE%20K3T4GIHAN%20SINGKONG%20BR0ND0NG%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "ang mengisahkan sebuah keluarga cemara yang kedatangan sosok seorang ibu baru , nah bagaimanakah kisah cinta di balik semua ini , silahkan simak video hingga usai"
     },
     {
       "id": 12,
-      "name_category": "2022",
-      "title": "Ceweknya Toket Bulat Bikin Betah kalau di goyang",
-      "image": "https://ia801408.us.archive.org/11/items/2_20220419_20220419_1541/__ia_thumb.jpg",
-      "link_video": "https://ia801408.us.archive.org/11/items/2_20220419_20220419_1541/2.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "B0S YANG DAPAT B0NUS SETIAP SAAT",
+      "image": "https://ia601509.us.archive.org/18/items/b-0-s-yang-dapat-b-0-nus-setiap-saat-alur-cerita-film/maxresdefault.jpg",
+      "link_video": "https://ia601509.us.archive.org/18/items/b-0-s-yang-dapat-b-0-nus-setiap-saat-alur-cerita-film/B0S%20YANG%20DAPAT%20B0NUS%20SETIAP%20SAAT%20-%20ALUR%20CERITA%20FILM.mp4",
+      "description": "Film ini mengisahkan seorang bos yang jatuh cinta dengan karyawan nya , nah apakah bos itu berhasil mendapaati hal tersebut , yuk guys simak video ini hingga usai"
     },
     {
       "id": 13,
-      "name_category": "2022",
-      "title": "Diajak Mantan Masih Enak Juga Goyangnya",
-      "image": "https://ia601501.us.archive.org/2/items/3_20220419_20220419_1541/__ia_thumb.jpg",
-      "link_video": "https://ia601501.us.archive.org/2/items/3_20220419_20220419_1541/3.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "BARU KENAL DI AJAK MABAR",
+      "image": "https://ia601508.us.archive.org/17/items/baru-kenal-di-ajak-mabar-alur-cerita-film-s-1-n-1-sland-mampir-ke-channel-ke-2-the-bagon/maxresdefault.jpg",
+      "link_video": "https://ia601508.us.archive.org/17/items/baru-kenal-di-ajak-mabar-alur-cerita-film-s-1-n-1-sland-mampir-ke-channel-ke-2-the-bagon/BARU%20KENAL%20DI%20AJAK%20MABAR%20-%20ALUR%20CERITA%20FILM%20S1N%201SLAND%20-%20MAMPIR%20KE%20CHANNEL%20KE2%40THE%20BAGON.mp4",
+      "description": "film ini mengisahkan pasangan suami istri yang sangat harmonis, suatu ketika kesetiaan mereka diuji akibat kehadiran dari orang ketiga di antara mereka , bagaimanakah kisahnya , simak video ini hingga usai"
     },
     {
       "id": 14,
-      "name_category": "2022",
-      "title": "Bikin Pengen Ngewek Terus Sama Doi",
-      "image": "https://ia601402.us.archive.org/27/items/4_20220419_202204/__ia_thumb.jpg",
-      "link_video": "https://ia601402.us.archive.org/27/items/4_20220419_202204/4.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "HARTA TAHTA WANITA",
+      "image": "https://ia601401.us.archive.org/9/items/harta-tahta-wanita-alur-cerita-film-girls-vs-gangster/maxresdefault.jpg",
+      "link_video": "https://ia601401.us.archive.org/9/items/harta-tahta-wanita-alur-cerita-film-girls-vs-gangster/harta%20tahta%20wanita%20-%20alur%20cerita%20film%20girls%20vs%20gangster.mp4",
+      "description": "alur cerita film girls vs gangster film ini rilis di tahun 2018 menceritakan 3 gadis muda , yang sudah bersahabat sejak kecil . lalu mereka berencana melakukan traveling ke suatu tempat namun ternyata harus berurusan dengan para gangster. nah bagaimana alur cerita yuk guys kita simak ceritanya"
     },
     {
       "id": 15,
-      "name_category": "2022",
-      "title": "Enak Setiap Hari Bisa Sama Doi Ngewek",
-      "image": "https://ia601405.us.archive.org/26/items/5_20220419/__ia_thumb.jpg",
-      "link_video": "https://ia801405.us.archive.org/26/items/5_20220419/5.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "ENGGAK ADA ADIK KAKAKNYA PUN JADI",
+      "image": "https://ia601404.us.archive.org/20/items/enggak-ada-adik-kakaknya-pun-jadi-alur-cerita-film-mampir-ke-channel-ke-2-the-bagon/maxresdefault.jpg",
+      "link_video": "https://ia601404.us.archive.org/20/items/enggak-ada-adik-kakaknya-pun-jadi-alur-cerita-film-mampir-ke-channel-ke-2-the-bagon/ENGGAK%20ADA%20ADIK%20KAKAKNYA%20PUN%20JADI%20-%20ALUR%20CERITA%20FILM%20-%20MAMPIR%20KE%20CHANNEL%20KE2%20%40THE%20BAGON.mp4",
+      "description": "Film ini hubungan antara kaka dan adik yang seketika berubah drastis akibat dari ulah pacar dari sang adik , bagaimanakah kisahnya , simak video ini hingga usai"
     },
     {
       "id": 16,
-      "name_category": "2022",
-      "title": "Habis Olah Raga Kamar Sepi Ngewek Dulu Ah..",
-      "image": "https://ia801509.us.archive.org/7/items/6_20220419_202204/__ia_thumb.jpg",
-      "link_video": "https://ia601509.us.archive.org/7/items/6_20220419_202204/6.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "KOST IDAMAN PARA PRIA",
+      "image": "https://ia601501.us.archive.org/17/items/kost-idaman-para-pria-alur-cerita-film-mampir-ke-channel-ke-2-the-bagon/maxresdefault.jpg",
+      "link_video": "https://ia601501.us.archive.org/17/items/kost-idaman-para-pria-alur-cerita-film-mampir-ke-channel-ke-2-the-bagon/KOST%20IDAMAN%20PARA%20PRIA%20-%20ALUR%20CERITA%20FILM%20--%20MAMPIR%20KE%20CHANNEL%20KE2%40THE%20BAGON.mp4",
+      "description": "Film ini mengisahkan sebuah keluarga baru yang suatu ketika kedatangan oleh seseorang yang sangat misterius , nah apakah yang akan terjadi , simak video ini hingga usai"
     },
     {
       "id": 17,
-      "name_category": "2022",
-      "title": "Sama Sama Puas Ah...",
-      "image": "https://ia801404.us.archive.org/35/items/7_20220419_202204/__ia_thumb.jpg",
-      "link_video": "https://ia601404.us.archive.org/35/items/7_20220419_202204/7.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "SELINGKUH MEMBUAT KETAGIHAN",
+      "image": "https://ia601406.us.archive.org/28/items/selingkuh-membuat-ketagihan-alur-cerita-film-open-2019-mampir-ke-channel-ke-2-the-bagon/maxresdefault.jpg",
+      "link_video": "https://ia601406.us.archive.org/28/items/selingkuh-membuat-ketagihan-alur-cerita-film-open-2019-mampir-ke-channel-ke-2-the-bagon/SELINGKUH%20MEMBUAT%20KETAGIHAN%20-%20ALUR%20CERITA%20FILM%20OPEN%202019%20--%20MAMPIR%20KE%20CHANNEL%20KE2%20%20%40THE%20BAGON.mp4",
+      "description": "Tina dan Ethan telah bersama selama 14 tahun. . Mereka adalah yang pertama bagi satu sama lain, dan bagi teman-teman mereka, mereka adalah pasangan yang sempurna. Ketika keduanya mulai merasa bahwa hubungan mereka telah basi, mereka mengeksplorasi gagasan untuk terbuka. Itu sesuatu yang ingin dilakukan Ethan,. Mereka setuju bahwa mereka diperbolehkan untuk ceplak ceplok dengan orang asing, tetapi mereka tidak diperbolehkan untuk jatuh cinta. Dalam hubungan yang dibangun dari waktu ke waktu, keduanya mulai berharap untuk menyelamatkan hal yang sama persis yang mereka serahkan. Pada akhirnya, mereka belajar pentingnya hal yang selama ini mereka buta -- hubungan tanpa kepercayaan pada akhirnya akan hancur"
     },
     {
       "id": 18,
-      "name_category": "2022",
-      "title": "eman Kantor Ajakin Ngewekk..",
-      "image": "https://ia801505.us.archive.org/27/items/8_20220419_20220419/8.mp4",
-      "link_video": "https://ia801505.us.archive.org/27/items/8_20220419_20220419/__ia_thumb.jpg",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "REKAN KERJA KU SUNGGUH MENGGUGAH SELERA",
+      "image": "https://ia601509.us.archive.org/0/items/rekan-kerja-ku-sungguh-menggugah-selera-alur-cerita-film-channel-ke-2-the-bagon/maxresdefault.jpg",
+      "link_video": "https://ia601509.us.archive.org/0/items/rekan-kerja-ku-sungguh-menggugah-selera-alur-cerita-film-channel-ke-2-the-bagon/REKAN%20KERJA%20KU%20SUNGGUH%20MENGGUGAH%20SELERA%20-%20ALUR%20CERITA%20FILM%20-%20CHANNEL%20KE2%20%40THE%20BAGON.mp4",
+      "description": "ini mengisahkan kisah cinta antara 2 karyawan di tempat bekerja , suatu ketika ada kejadian yang akhirnya memisahkan mereka , apakah yang akan terjadi dengan cerita sedih ini , silahkan simak video ini hingga usai"
     },
     {
       "id": 19,
-      "name_category": "2022",
-      "title": " Teman Kelas Mulus Banget",
-      "image": "https://ia801500.us.archive.org/22/items/9_20220419_20220419_1543/9.mp4",
-      "link_video": "https://ia601500.us.archive.org/22/items/9_20220419_20220419_1543/__ia_thumb.jpg",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "MAHASISWA YANG SUPER BERUNTUNG",
+      "image": "https://ia601400.us.archive.org/1/items/mahasiswa-yang-super-beruntung-alur-cerita-film-jepang/maxresdefault.jpg",
+      "link_video": "https://ia601400.us.archive.org/1/items/mahasiswa-yang-super-beruntung-alur-cerita-film-jepang/MAHASISWA%20YANG%20SUPER%20BERUNTUNG%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "Film ini menceritakan seorang mahasiswa di sebuah universitas  terkenal di negeri sakura yang beruntung karena telah mengenal seorang dosen yang sangat baik kepadanya, gimanakah kisah unik kali ini simak video ini hingga usai"
     },
     {
       "id": 20,
-      "name_category": "2022",
-      "title": " Tiba Tiba Di Telepon Gebetan",
-      "image": "https://ia801408.us.archive.org/9/items/10_20220419_202204/__ia_thumb.jpg",
-      "link_video": "https://ia801408.us.archive.org/9/items/10_20220419_202204/10.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "PRIA YANG JADI REBUTAN BANYAK WANITA",
+      "image": "https://ia601403.us.archive.org/35/items/pria-yang-jadi-rebutan-banyak-wanita-alur-cerita-film-5even-c-0lour/maxresdefault.jpg",
+      "link_video": "https://ia601403.us.archive.org/35/items/pria-yang-jadi-rebutan-banyak-wanita-alur-cerita-film-5even-c-0lour/Pria%20yang%20jadi%20rebutan%20banyak%20wanita%20-%20alur%20cerita%20film%205even%20C0lour.mp4",
+      "description": "film yang mengisahkan seorang pria yang terjebak di sebuah apartment yang di penuhi oleh para gadis cantik , nah apakah yang akan terjadi , simak video ini hingga usai jangan bintang lima"
     },
     {
       "id": 21,
-      "name_category": "2023",
-      "title": "Apem Mulus Bikin Sange",
-      "image": "https://ia801402.us.archive.org/19/items/3_20220419_20220419_2045/__ia_thumb.jpg",
-      "link_video": "https://ia601402.us.archive.org/19/items/3_20220419_20220419_2045/3.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "GOA GADIS INI MASIH GUNDUL",
+      "image": "https://ia601408.us.archive.org/1/items/goa-gadis-ini-masih-gundul-alur-cerita-film-jepang/maxresdefault.jpg",
+      "link_video": "https://ia601408.us.archive.org/1/items/goa-gadis-ini-masih-gundul-alur-cerita-film-jepang/GOA%20GADIS%20INI%20MASIH%20GUNDUL%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "Selamat datang kembali di Channel berbagi cara , pada kesempatan kali ini saya akan menceritakan sebuah film yang mengisahkan"
     },
     {
       "id": 22,
-      "name_category": "2023",
-      "title": " Enakk Banget Sayang",
-      "image": "https://ia601508.us.archive.org/34/items/4_20220419_20220419/__ia_thumb.jpg",
-      "link_video": "https://ia601508.us.archive.org/34/items/4_20220419_20220419/4.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "MAKIN TUA MAKIN PERKASA",
+      "image": "https://ia601409.us.archive.org/34/items/makin-tua-makin-perkasa-alur-cerita-film-venus-talk/maxresdefault.jpg",
+      "link_video": "https://ia601409.us.archive.org/34/items/makin-tua-makin-perkasa-alur-cerita-film-venus-talk/Makin%20tua%20makin%20perkasa%20-%20Alur%20cerita%20film%20Venus%20talk.mp4",
+      "description": "pada video kali ini saya akan menceritakan alur cerita film dari Venus talk yang telah rilis di tahun 2014 , mengisahkan 3 Tante , yang sangat mendambakan brondong tangguh .suatu ketika mereka bertemu dengan seorang pria . nah bagaimana kisah selanjutnya yuk guys ikuti alur cerita film nya . dan selamat menonton"
     },
     {
       "id": 23,
-      "name_category": "2023",
-      "title": "Gadis Bugil Tatoan",
-      "image": "https://ia801407.us.archive.org/23/items/5_20220419_20220419/__ia_thumb.jpg",
-      "link_video": "https://ia801407.us.archive.org/23/items/5_20220419_20220419/5.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "INDAHNYA DUNIA MALAM",
+      "image": "https://ia601508.us.archive.org/33/items/indah-nya-dunia-malam-alur-cerita-film-lan-kwai-fong-2/maxresdefault.jpg",
+      "link_video": "https://ia601508.us.archive.org/33/items/indah-nya-dunia-malam-alur-cerita-film-lan-kwai-fong-2/Indah%20nya%20dunia%20malam%20%20-%20Alur%20cerita%20Film%20Lan%20Kwai%20Fong%202.mp4",
+      "description": "semoga kita semua selalu dalam keadaan baik baik saja . pada video kali ini saya akan menceritakan alur cerita film dari lan Kwai Fong 2 mengisahkan 3 insan manusia yang jauh cinta namun terjadi begitu banyak masalah dan cobaan untuk mendapatkan cinta sejatinya . nah bagaimana kisah selanjutnya yuk guys ikuti alur cerita nya lets go"
     },
     {
       "id": 24,
-      "name_category": "2023",
-      "title": "Cewek Cantik Sangean",
-      "image": "https://ia601500.us.archive.org/14/items/9_20220419_20220419_2053/__ia_thumb.jpg",
-      "link_video": "https://ia601500.us.archive.org/14/items/9_20220419_20220419_2053/9.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "PAGAR MAKAN TANAMAN",
+      "image": "https://ia601508.us.archive.org/18/items/pagar-makan-tanaman-alur-cerita-film-lan-kwai-fong-3/maxresdefault.jpg",
+      "link_video": "https://ia601508.us.archive.org/18/items/pagar-makan-tanaman-alur-cerita-film-lan-kwai-fong-3/Pagar%20Makan%20Tanaman%20-%20Alur%20cerita%20film%20lan%20Kwai%20Fong%203.mp4",
+      "description": "saya akan menceritakan alur cerita film dari lan Kwai Fong 3 . Mengisahkan percintaan dan gemerlapnya dunia malam di lan Kwai Fong dan juga Jacky yang masih merasa bersalah akibat dulu meninggalkan marvis , dalam film ini akhirnya menemukan seorang gadis , nah bagaimana kisahnya yuk guys kita ikuti alur ceritanya"
     },
     {
       "id": 25,
-      "name_category": "2023",
-      "title": "Goyang Terus Sampai Crot",
-      "image": "https://ia601501.us.archive.org/10/items/10_20220419_20220419/__ia_thumb.jpg",
-      "link_video": "https://ia801501.us.archive.org/10/items/10_20220419_20220419/10.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "WANITA CANTIK LEBIH SUKA DENGAN PRIA KALEM",
+      "image": "https://ia601503.us.archive.org/32/items/wanita-cantik-lebih-suka-dengan-pria-kalem-alur-cerita-film-jepang/maxresdefault.jpg",
+      "link_video": "https://ia601503.us.archive.org/32/items/wanita-cantik-lebih-suka-dengan-pria-kalem-alur-cerita-film-jepang/WANITA%20CANTIK%20LEBIH%20SUKA%20DENGAN%20PRIA%20KALEM%20-%20ALUR%20CERITA%20FILM%20JEPANG.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
     },
     {
       "id": 26,
-      "name_category": "2023",
-      "title": "Sudah Cantik Liar lagi Goyang Di ATAS",
-      "image": "https://ia801407.us.archive.org/25/items/8_20220419_20220419_2053/__ia_thumb.jpg",
-      "link_video": "https://ia601407.us.archive.org/25/items/8_20220419_20220419_2053/8.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Film Asal Mandarin",
+      "image": "https://ia601505.us.archive.org/32/items/daftar-film-asal-mandarin-yang-memiliki-alur-cerita-memukau-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601505.us.archive.org/32/items/daftar-film-asal-mandarin-yang-memiliki-alur-cerita-memukau-daftar-film/Daftar%20Film%20Asal%20Mandarin%20Yang%20Memiliki%20Alur%20Cerita%20Memukau%20-%20DAFTAR%20FILM.mp4",
+      "description": "film yang mengisahkan seorang siswi yang menjalani test ujian di sekolah nya , namun apa daya pada saat itu seorang pria malah mendekatinya ,sehingga ia pun jadi tidak fokus dalam mengerjakan tugas tersebut ,  nah apakah yang akan terjadi . silahkan simak video ini hingga usai"
     },
     {
       "id": 27,
-      "name_category": "2023",
-      "title": "Mulus Tatoan Bugil",
-      "image": "https://ia801504.us.archive.org/0/items/luna-maya-jadul/__ia_thumb.jpg",
-      "link_video": "https://ia601409.us.archive.org/18/items/7_20220419_20220419/7.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "GAK PAKE REKAYASA",
+      "image": "https://ia601507.us.archive.org/22/items/gak-pake-rekayasa-7-film-ini-harus-kalian-cek-sendiri-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601507.us.archive.org/22/items/gak-pake-rekayasa-7-film-ini-harus-kalian-cek-sendiri-daftar-film/GAK%20PAKE%20REKAYASA%20%21%21%207%20Film%20Ini%20Harus%20Kalian%20Cek%20Sendiri%20-%20DAFTAR%20FILM.mp4",
+      "description": "pada kesempatan kali ini , mimin akan menceritakan sebuah film yang mengisahkan seorang pria yang jatuh cinta dengan wanita cantik di tempat ia bekerja , nah apakah ia akan berhasil mendapatkan cinta tersebut"
     },
     {
       "id": 28,
-      "name_category": "2023",
-      "title": "Cewewknya Tidak Mau, Dipkasa Cowoknya",
-      "image": "https://ia601501.us.archive.org/7/items/6_20220419_20220419/__ia_thumb.jpg",
-      "link_video": "https://ia801501.us.archive.org/7/items/6_20220419_20220419/6.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Tonton Orang Dewasa",
+      "image": "https://ia601504.us.archive.org/13/items/7-film-superhero-yang-harus-di-tonton-orang-dewasa-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601504.us.archive.org/13/items/7-film-superhero-yang-harus-di-tonton-orang-dewasa-daftar-film/7%20Film%20Superhero%20Yang%20Harus%20Di%20Tonton%20Orang%20Dewasa%20-%20DAFTAR%20FILM.mp4",
+      "description": "kali ini mimin akan menceritakan sebuah film yang mengisahkan , seorang pria yang berkenalan dengan wanita pada saat bersepeda , dan dari pandangan pertama pria tersebut langsung jatuh hati terhadapnya , nah apakah ia akan berhasil , simak video ini hingga usai"
     },
     {
       "id": 29,
-      "name_category": "2023",
-      "title": "Koleksi Pribadi Bersama",
-      "image": "https://ia601500.us.archive.org/31/items/11_20220419_20220419_2102/__ia_thumb.jpg",
-      "link_video": "https://ia601500.us.archive.org/31/items/11_20220419_20220419_2102/11.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "Film Paling Panas",
+      "image": "https://ia601505.us.archive.org/21/items/8-film-paling-panas-yang-banyak-menghabiskan-waktu-di-perjalanan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601505.us.archive.org/21/items/8-film-paling-panas-yang-banyak-menghabiskan-waktu-di-perjalanan-daftar-film/8%20Film%20Paling%20Panas%20Yang%20Banyak%20menghabiskan%20Waktu%20Di%20Perjalanan%20-%20DAFTAR%20FILM.mp4",
+      "description": "film ini mengisahkan seorang wanita yang bekerja sebagai pengantar barang , suatu ketika ia mendapatkan masalah dengan customer nya, apakah yang akan terjadi simak video ini hingga usai"
     },
     {
       "id": 30,
-      "name_category": "2023",
-      "title": "udah, lama ndak di masukin.",
-      "image": "https://ia601406.us.archive.org/6/items/12_20220419_20220419_2102/__ia_thumb.jpg",
-      "link_video": "https://ia601402.us.archive.org/3/items/1_20220419_20220419_2043/1.mp4",
-      "description": ""
-    },
-    {
+      "name_category": "18+",
+      "title": "CERITA Romantis",
+      "image": "https://ia601409.us.archive.org/19/items/7-film-romantis-yang-mempunyai-ending-cerita-memilukan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601409.us.archive.org/19/items/7-film-romantis-yang-mempunyai-ending-cerita-memilukan-daftar-film/7%20Film%20Romantis%20Yang%20Mempunyai%20Ending%20Cerita%20Memilukan%20-%20DAFTAR%20FILM.mp4",
+      "description": "ang mengisahkan sebuah keluarga cemara yang kedatangan sosok seorang ibu baru , nah bagaimanakah kisah cinta di balik semua ini , silahkan simak video hingga usai"
+    },{
       "id": 31,
-      "name_category": "2021",
-      "title": "Tante Bohay",
-      "image": "https://ia801507.us.archive.org/22/items/tante-bohay/__ia_thumb.jpg",
-      "link_video": "https://ia801507.us.archive.org/22/items/tante-bohay/Tante%20Bohay.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Tak Boleh Kalian Lewatkan",
+      "image": "https://ia601501.us.archive.org/27/items/7-film-thriller-yang-tak-boleh-kalian-lewatkan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601501.us.archive.org/27/items/7-film-thriller-yang-tak-boleh-kalian-lewatkan-daftar-film/7%20Film%20Thriller%20Yang%20Tak%20Boleh%20Kalian%20Lewatkan%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini mengisahkan seorang bos yang jatuh cinta dengan karyawan nya , nah apakah bos itu berhasil mendapaati hal tersebut , yuk guys simak video ini hingga usai"
     },
     {
       "id": 32,
-      "name_category": "2023",
-      "title": "Tante Enakk MAINNYA",
-      "image": "https://ia801404.us.archive.org/10/items/2_20220419_20220419_2045/__ia_thumb.jpg",
-      "link_video": "https://ia601404.us.archive.org/10/items/2_20220419_20220419_2045/2.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Film Skandal Antara Dokter",
+      "image": "https://ia601409.us.archive.org/26/items/7-film-skandal-antara-dokter-dan-pasiennya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601409.us.archive.org/26/items/7-film-skandal-antara-dokter-dan-pasiennya-daftar-film/7%20Film%20Skandal%20Antara%20Dokter%20Dan%20Pasiennya%20-%20DAFTAR%20FILM.mp4",
+      "description": "film ini mengisahkan pasangan suami istri yang sangat harmonis, suatu ketika kesetiaan mereka diuji akibat kehadiran dari orang ketiga di antara mereka , bagaimanakah kisahnya , simak video ini hingga usai"
     },
     {
       "id": 33,
-      "name_category": "2022",
-      "title": "Tukang Pijet Diajak Ngewek.. Enak.",
-      "image": "https://ia601506.us.archive.org/18/items/tukang-pijet-diajak-ngewek..-enak/__ia_thumb.jpg",
-      "link_video": "https://ia801506.us.archive.org/18/items/tukang-pijet-diajak-ngewek..-enak/Tukang%20Pijet%20Diajak%20Ngewek..%20enak.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "KESUKAAN LELAKI",
+      "image": "https://ia601504.us.archive.org/30/items/kesukaan-lelaki-7-film-robot-pemuas-majikannya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601504.us.archive.org/30/items/kesukaan-lelaki-7-film-robot-pemuas-majikannya-daftar-film/KESUKAAN%20LELAKI%20-%207%20Film%20Robot%20Pemuas%20Majikannya-%20DAFTAR%20FILM.mp4",
+      "description": "alur cerita film girls vs gangster film ini rilis di tahun 2018 menceritakan 3 gadis muda , yang sudah bersahabat sejak kecil . lalu mereka berencana melakukan traveling ke suatu tempat namun ternyata harus berurusan dengan para gangster. nah bagaimana alur cerita yuk guys kita simak ceritanya"
     },
     {
       "id": 34,
-      "name_category": "2021",
-      "title": "Yang Penting Jago Goyang Diatas",
-      "image": "https://ia801403.us.archive.org/16/items/yang-penting-jago-goyang-diatas/__ia_thumb.jpg",
-      "link_video": "https://ia601403.us.archive.org/16/items/yang-penting-jago-goyang-diatas/Yang%20Penting%20Jago%20Goyang%20Diatas.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "ADA W1Kw!K Nya",
+      "image": "https://ia601406.us.archive.org/15/items/ada-w-1-kw-k-nya-7-film-petualangan-yang-menampil-kan-adegan-kamar-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601406.us.archive.org/15/items/ada-w-1-kw-k-nya-7-film-petualangan-yang-menampil-kan-adegan-kamar-daftar-film/ADA%20W1Kw%21K%20Nya-%207%20Film%20Petualangan%20Yang%20MenampilKan%20Adegan%20Kamar%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini Petualangan Yang MenampilKan Adegan Kamar"
     },
     {
       "id": 35,
-      "name_category": "2022",
-      "title": "Enak Banget Goyangmu",
-      "image": "https://ia601408.us.archive.org/13/items/14_20220418_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia801408.us.archive.org/13/items/14_20220418_20220418/14.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Hubungan Antara Bos Dan Karyawannya",
+      "image": "https://ia601501.us.archive.org/4/items/bukan-rekayasa-8-film-tentang-hubungan-antara-bos-dan-karyawannya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601501.us.archive.org/4/items/bukan-rekayasa-8-film-tentang-hubungan-antara-bos-dan-karyawannya-daftar-film/BUKAN%20REKAYASA%20%21%21%208%20Film%20Tentang%20Hubungan%20Antara%20Bos%20Dan%20Karyawannya%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini mengisahkan sebuah keluarga baru yang suatu ketika kedatangan oleh seseorang yang sangat misterius , nah apakah yang akan terjadi , simak video ini hingga usai"
     },
     {
       "id": 36,
-      "name_category": "2023",
-      "title": "Pentil Kecil Tapi Asyik",
-      "image": "https://ia601506.us.archive.org/10/items/13_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia801506.us.archive.org/10/items/13_20220418/13.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Perselingkuhan Dengan Tetangga",
+      "image": "https://ia601400.us.archive.org/11/items/lagi-tanpa-sensor-paling-panas-7-film-perselingkuhan-dengan-tetangga-rumah-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601400.us.archive.org/11/items/lagi-tanpa-sensor-paling-panas-7-film-perselingkuhan-dengan-tetangga-rumah-daftar-film/LAGI%2C%20Tanpa%20Sensor%20%21%21%20PALING%20PANAS%20%21%21%207%20Film%20Perselingkuhan%20Dengan%20Tetangga%20Rumah%20-%20DAFTAR%20FILM.mp4",
+      "description": "Tina dan Ethan telah bersama selama 14 tahun. . Mereka adalah yang pertama bagi satu sama lain, dan bagi teman-teman mereka, mereka adalah pasangan yang sempurna. Ketika keduanya mulai merasa bahwa hubungan mereka telah basi, mereka mengeksplorasi gagasan untuk terbuka. Itu sesuatu yang ingin dilakukan Ethan,. Mereka setuju bahwa mereka diperbolehkan untuk ceplak ceplok dengan orang asing, tetapi mereka tidak diperbolehkan untuk jatuh cinta. Dalam hubungan yang dibangun dari waktu ke waktu, keduanya mulai berharap untuk menyelamatkan hal yang sama persis yang mereka serahkan. Pada akhirnya, mereka belajar pentingnya hal yang selama ini mereka buta -- hubungan tanpa kepercayaan pada akhirnya akan hancur"
     },
     {
       "id": 37,
-      "name_category": "2021",
-      "title": "Si Bulu Lebat, Mulus",
-      "image": "https://ia801402.us.archive.org/15/items/12_20220418_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia801402.us.archive.org/15/items/12_20220418_20220418/12.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Film Adegan W 1 KW!k Dengan",
+      "image": "https://ia601400.us.archive.org/33/items/8-film-adegan-w-1-kwk-dengan-alur-cerita-yang-menarik-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601400.us.archive.org/33/items/8-film-adegan-w-1-kwk-dengan-alur-cerita-yang-menarik-daftar-film/8%20Film%20Adegan%20W1KW%21k%20Dengan%20Alur%20Cerita%20Yang%20Menarik%20-%20DAFTAR%20FILM.ia.mp4",
+      "description": "ini mengisahkan kisah cinta antara 2 karyawan di tempat bekerja , suatu ketika ada kejadian yang akhirnya memisahkan mereka , apakah yang akan terjadi dengan cerita sedih ini , silahkan simak video ini hingga usai"
     },
     {
       "id": 38,
-      "name_category": "2022",
-      "title": "Goyangan Mantap di Atas",
-      "image": "https://ia801506.us.archive.org/16/items/11_20220418_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601506.us.archive.org/16/items/11_20220418_20220418/11.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "Tidur 1 Detik Kalian Bisa Meninggoy",
+      "image": "https://ia801405.us.archive.org/26/items/ekseperimen-mengerikan-tidur-1-detik-kalian-bisa-meninggoy-alur-film-the-deep-2021/maxresdefault.jpg",
+      "link_video": "https://ia801405.us.archive.org/26/items/ekseperimen-mengerikan-tidur-1-detik-kalian-bisa-meninggoy-alur-film-the-deep-2021/Ekseperimen%20Mengerikan%20%21%21%21%20Tidur%201%20Detik%20Kalian%20Bisa%20Meninggoy%20-%20ALUR%20FILM%20The%20Deep%20%282021%29.mp4",
+      "description": "Film ini menceritakan seorang mahasiswa di sebuah universitas  terkenal di negeri sakura yang beruntung karena telah mengenal seorang dosen yang sangat baik kepadanya, gimanakah kisah unik kali ini simak video ini hingga usai"
     },
     {
       "id": 39,
-      "name_category": "2023",
-      "title": "Pas Rumah Lagi Kosong",
-      "image": "https://ia601504.us.archive.org/22/items/10_20220418_20220418_1216/__ia_thumb.jpg",
-      "link_video": "https://ia801504.us.archive.org/22/items/10_20220418_20220418_1216/10.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "PRIA YANG JADI REBUTAN BANYAK WANITA",
+      "image": "https://ia601504.us.archive.org/34/items/7-film-kisah-cinta-terlarang-antara-guru-dan-muridnya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia801504.us.archive.org/34/items/7-film-kisah-cinta-terlarang-antara-guru-dan-muridnya-daftar-film/7%20Film%20Kisah%20Cinta%20Terlarang%20Antara%20Guru%20Dan%20Muridnya%20-%20DAFTAR%20FILM.mp4",
+      "description": "film yang mengisahkan seorang pria yang terjebak di sebuah apartment yang di penuhi oleh para gadis cantik , nah apakah yang akan terjadi , simak video ini hingga usai jangan bintang lima"
     },
     {
       "id": 40,
-      "name_category": "2021",
-      "title": "Ceweknya Mulus Bikin Sange",
-      "image": "https://ia801505.us.archive.org/11/items/9_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601505.us.archive.org/11/items/9_20220418/9.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Bocil Ketagihan Mimpi CEWEK BOH 4 Y",
+      "image": "https://ia601400.us.archive.org/6/items/bocil-ketagihan-mimpi-cewek-boh-4-y-idaman-para-warga-alur-film-malena-2000/maxresdefault.jpg",
+      "link_video": "https://ia801400.us.archive.org/6/items/bocil-ketagihan-mimpi-cewek-boh-4-y-idaman-para-warga-alur-film-malena-2000/Bocil%20Ketagihan%20Mimpi%20CEWEK%20BOH4Y%20Idaman%20Para%20Warga%20-%20ALUR%20FILM%20Malena%20%282000%29.mp4",
+      "description": "Selamat datang kembali di Channel berbagi cara , pada kesempatan kali ini saya akan menceritakan sebuah film yang mengisahkan"
     },
     {
       "id": 41,
-      "name_category": "2022",
-      "title": "CEWEK mulus ",
-      "image": "https://ia801501.us.archive.org/7/items/7_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601501.us.archive.org/7/items/7_20220418/7.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Bercocok Tanam Asal Korea Yang Paling Seger",
+      "image": "https://ia601405.us.archive.org/12/items/10-film-bercocok-tanam-asal-korea-yang-paling-seger-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia801405.us.archive.org/12/items/10-film-bercocok-tanam-asal-korea-yang-paling-seger-daftar-film/10%20Film%20Bercocok%20Tanam%20Asal%20Korea%20yang%20Paling%20Seger%20-%20DAFTAR%20FILM.mp4",
+      "description": "pada video kali ini saya akan menceritakan alur cerita film dari Venus talk yang telah rilis di tahun 2014 , mengisahkan 3 Tante , yang sangat mendambakan brondong tangguh .suatu ketika mereka bertemu dengan seorang pria . nah bagaimana kisah selanjutnya yuk guys ikuti alur cerita film nya . dan selamat menonton"
     },
     {
       "id": 42,
-      "name_category": "2023",
-      "title": "Tetek Kecil Tapi mULUS",
-      "image": "https://ia601405.us.archive.org/24/items/6_20220418_202204/__ia_thumb.jpg",
-      "link_video": "https://ia801405.us.archive.org/24/items/6_20220418_202204/6.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": "Rayuan BOS Muda Berujung Kenikmatan Di Vila Bersama Sekertaris Cantik",
+      "image": "https://ia601505.us.archive.org/3/items/rayuan-bos-muda-berujung-kenikmatan-di-vila-bersama-sekertaris-cantik-alur-film/maxresdefault.jpg",
+      "link_video": "https://ia801505.us.archive.org/3/items/rayuan-bos-muda-berujung-kenikmatan-di-vila-bersama-sekertaris-cantik-alur-film/Rayuan%20BOS%20Muda%20Berujung%20Kenikmatan%20Di%20Vila%20Bersama%20Sekertaris%20Cantik%20-%20ALUR%20FILM.mp4",
+      "description": "semoga kita semua selalu dalam keadaan baik baik saja . pada video kali ini saya akan menceritakan alur cerita film dari lan Kwai Fong 2 mengisahkan 3 insan manusia yang jauh cinta namun terjadi begitu banyak masalah dan cobaan untuk mendapatkan cinta sejatinya . nah bagaimana kisah selanjutnya yuk guys ikuti alur cerita nya lets go"
     },
     {
       "id": 43,
-      "name_category": "2021",
-      "title": "jAGO goyang di atas",
-      "image": "https://ia801409.us.archive.org/13/items/5_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601409.us.archive.org/13/items/5_20220418/5.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Liburan Para Gadis Cantik",
+      "image": "https://ia801406.us.archive.org/12/items/teror-hiu-ganas-merusak-liburan-para-gadis-cantik-alur-film-escape-of-shark-2021/maxresdefault.jpg",
+      "link_video": "https://ia801406.us.archive.org/12/items/teror-hiu-ganas-merusak-liburan-para-gadis-cantik-alur-film-escape-of-shark-2021/Teror%20HIU%20Ganas%20Merusak%20Liburan%20Para%20Gadis%20Cantik%20-%20ALUR%20FILM%20Escape%20of%20Shark%20%282021%29.mp4",
+      "description": "saya akan menceritakan alur cerita film dari lan Kwai Fong 3 . Mengisahkan percintaan dan gemerlapnya dunia malam di lan Kwai Fong dan juga Jacky yang masih merasa bersalah akibat dulu meninggalkan marvis , dalam film ini akhirnya menemukan seorang gadis , nah bagaimana kisahnya yuk guys kita ikuti alur ceritanya"
     },
     {
       "id": 44,
-      "name_category": "2022",
-      "title": "Asyik Banget Goyangnya KAMU",
-      "image": "https://ia801508.us.archive.org/10/items/4_20220418_20220418/__ia_thumb.jpg",
-      "link_video": "https://ia601508.us.archive.org/10/items/4_20220418_20220418/4.mp4",
-      "description": ""
+      "name_category": "18+",
+      "title": "Perbuatan Sutradara Yang Paling",
+      "image": "https://ia601408.us.archive.org/31/items/7-perbuatan-sutradara-yang-paling-kejam-kepada-aktornya-bahasfilm/maxresdefault.jpg",
+      "link_video": "https://ia601408.us.archive.org/31/items/7-perbuatan-sutradara-yang-paling-kejam-kepada-aktornya-bahasfilm/7%20Perbuatan%20Sutradara%20Yang%20Paling%20Kejam%20Kepada%20Aktornya%20-%20BAHASFILM.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
     },
-    {
+	{
       "id": 45,
-      "name_category": "2023",
-      "title": "crot Di Goyang Kamu Yang",
-      "image": "https://ia801508.us.archive.org/7/items/3_20220418_20220418_1214/__ia_thumb.jpg",
-      "link_video": "https://ia801508.us.archive.org/7/items/3_20220418_20220418_1214/3.mp4",
-      "description": ""
+      "name_category": "FILEM",
+      "title": " Adegan Pantai Bikin Gagal Fokus",
+      "image": "https://ia801404.us.archive.org/18/items/no-2-paling-panas-7-film-dengan-adegan-pantai-bikin-gagal-fokus-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601404.us.archive.org/18/items/no-2-paling-panas-7-film-dengan-adegan-pantai-bikin-gagal-fokus-daftar-film/No%202%20Paling%20PANAS-%207%20Film%20Dengan%20Adegan%20Pantai%20Bikin%20Gagal%20Fokus%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
     },
-    {
+	{
       "id": 46,
-      "name_category": "2021",
-      "title": "Crot Di Mulut",
-      "image": "https://ia801401.us.archive.org/26/items/2_20220418_20220418_1214/__ia_thumb.jpg",
-      "link_video": "https://ia801401.us.archive.org/26/items/2_20220418_20220418_1214/2.mp4",
-      "description": ""
+      "name_category": "VIDIO",
+      "title": "Paling Panas Dengan Cerita",
+      "image": "https://ia801500.us.archive.org/16/items/10-film-paling-panas-dengan-cerita-paling-keren-rilisan-tahun-2020-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601500.us.archive.org/16/items/10-film-paling-panas-dengan-cerita-paling-keren-rilisan-tahun-2020-daftar-film/10%20Film%20Paling%20Panas%20Dengan%20Cerita%20Paling%20Keren%20Rilisan%20Tahun%202020%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
+    },
+	{
+      "id": 47,
+      "name_category": "18+",
+      "title": "tinggal Satu Kosan Dengan Dede Gemes",
+      "image": "https://ia601408.us.archive.org/15/items/begini-jadinya-kalo-tinggal-satu-kosan-dengan-dede-gemes-alur-film/maxresdefault.jpg",
+      "link_video": "https://ia801408.us.archive.org/15/items/begini-jadinya-kalo-tinggal-satu-kosan-dengan-dede-gemes-alur-film/Begini%20Jadinya%20Kalo%20Tinggal%20Satu%20Kosan%20Dengan%20Dede%20Gemes%20-%20ALUR%20FILM.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
+    },
+	{
+      "id": 48,
+      "name_category": "VIDIO",
+      "title": "W! Kw!k Asal Asia",
+      "image": "https://ia601408.us.archive.org/32/items/7-film-w-kwk-asal-asia-dengan-alur-cerita-paling-seru-part-3-daftar-film/maxresdefault.jpg",
+      "link_video": "https://ia601408.us.archive.org/32/items/7-film-w-kwk-asal-asia-dengan-alur-cerita-paling-seru-part-3-daftar-film/7%20Film%20W%21Kw%21k%20Asal%20Asia%20Dengan%20Alur%20Cerita%20Paling%20Seru%20%28Part%203%29%20-%20DAFTAR%20FILM.mp4",
+      "description": "Film ini menceritakan seorang sales di suatu perusahaan ternama yang ada di negeri sakura yang mendapatkan keberuntungan akibat bertemu dengan seseorang wanita yang baik hati dan tidak sombong , gimanakah kisah menarik kali ini , simak video ini hingga usai"
+    },
+        {
+      "id": 49,
+      "name_category": "18+",
+      "title": "gadis yang kurang mendapat perhatian",
+      "image": "https://ia801407.us.archive.org/0/items/gadis-yang-kurang-mendapat-perhatian-dari-orangtuanya-rangkum-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Drama%20China%20Terbaik%20Yang%20Dibintangi%20Dilraba%20Dilmurat.mp4",
+      "description": "film yang mengisahkan seorang siswi yang menjalani test ujian di sekolah nya , namun apa daya pada saat itu seorang pria malah mendekatinya ,sehingga ia pun jadi tidak fokus dalam mengerjakan tugas tersebut ,  nah apakah yang akan terjadi . silahkan simak video ini hingga usai"
     },
     {
-      "id": 47,
-      "name_category": "2022",
-      "title": "Goyangan Mu Asyik Banget Yang Diatas",
-      "image": "https://ia801403.us.archive.org/19/items/1_20220418_20220418_1214/__ia_thumb.jpg",
-      "link_video": "https://ia601403.us.archive.org/19/items/1_20220418_20220418_1214/1.mp44",
-      "description": ""
+      "id": 50,
+      "name_category": "18+",
+      "title": "tertipu dengan rayuan suami orang",
+      "image": "https://ia601505.us.archive.org/24/items/rangkum-film-tertipu-dengan-rayuan-suami-orang/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Drama%20China%20Yang%20Banyak%20Adegan%20Ciumannya.mp4",
+      "description": "pada kesempatan kali ini , mimin akan menceritakan sebuah film yang mengisahkan seorang pria yang jatuh cinta dengan wanita cantik di tempat ia bekerja , nah apakah ia akan berhasil mendapatkan cinta tersebut"
+    },
+    {
+      "id": 51,
+      "name_category": "FILM SEMI",
+      "title": "ADEGAN CIUMAN FENOMENAL",
+      "image": "https://ia601504.us.archive.org/13/items/7-film-superhero-yang-harus-di-tonton-orang-dewasa-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Film%20Dewasa%20Dengan%20Adegan%20Ciuman%20Terlama%20Dan%20Fenomenal.mp4",
+      "description": "kali ini mimin akan menceritakan sebuah film yang mengisahkan , seorang pria yang berkenalan dengan wanita pada saat bersepeda , dan dari pandangan pertama pria tersebut langsung jatuh hati terhadapnya , nah apakah ia akan berhasil , simak video ini hingga usai"
+    },
+    {
+      "id": 52,
+      "name_category": "FILM SEMI",
+      "title": "10 FILM DEWASA INDONEIA",
+      "image": "https://ia601505.us.archive.org/21/items/8-film-paling-panas-yang-banyak-menghabiskan-waktu-di-perjalanan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Film%20Dewasa%20Indonesia%20Yang%20Banyak%20Adegan%20Ciumannya.mp4",
+      "description": "film ini mengisahkan seorang wanita yang bekerja sebagai pengantar barang , suatu ketika ia mendapatkan masalah dengan customer nya, apakah yang akan terjadi simak video ini hingga usai"
+    },
+    {
+      "id": 53,
+      "name_category": "FILM SEMI",
+      "title": "FILM TERBAIK CHELSEA ISLAN HOT",
+      "image": "https://ia601409.us.archive.org/19/items/7-film-romantis-yang-mempunyai-ending-cerita-memilukan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Film%20Terbaik%20Yang%20Dibintangi%20Chelsea%20Islan.mp4",
+      "description": "ang mengisahkan sebuah keluarga cemara yang kedatangan sosok seorang ibu baru , nah bagaimanakah kisah cinta di balik semua ini , silahkan simak video hingga usai"
+    },{
+      "id": 54,
+      "name_category": "FILM SEMI",
+      "title": "FILM GENERASI 90AN HOT",
+      "image": "https://ia601501.us.archive.org/27/items/7-film-thriller-yang-tak-boleh-kalian-lewatkan-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/Adegan%20Ciuman%20Hot%20Ari%20Irham%20dan%20taskya%20namya%20di%20Film%20Generasi%2090an.mp4",
+      "description": "Film ini mengisahkan seorang bos yang jatuh cinta dengan karyawan nya , nah apakah bos itu berhasil mendapaati hal tersebut , yuk guys simak video ini hingga usai"
+    },
+    {
+      "id": 56,
+      "name_category": "FILM SEMI",
+      "title": "DRAMA CINA 18+",
+      "image": "https://ia601409.us.archive.org/26/items/7-film-skandal-antara-dokter-dan-pasiennya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/Adegan%20Ciuman%20Xu%20Kai%20dan%20Cheng%20Xiao%20di%20Drama%20China%20Falling%20Into%20Your%20Smile.mp4",
+      "description": "film ini mengisahkan pasangan suami istri yang sangat harmonis, suatu ketika kesetiaan mereka diuji akibat kehadiran dari orang ketiga di antara mereka , bagaimanakah kisahnya , simak video ini hingga usai"
+    },
+    {
+      "id": 57,
+      "name_category": "FILM SEMI",
+      "title": "ADEGAN DEWASA FULL",
+      "image": "https://ia601504.us.archive.org/30/items/kesukaan-lelaki-7-film-robot-pemuas-majikannya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/Daftar%2010%20Film%20Dewasa%20Dengan%20Adegan%20Ciuman%20Terlama%20%26%20Fenomenal.mp4",
+      "description": "alur cerita film girls vs gangster film ini rilis di tahun 2018 menceritakan 3 gadis muda , yang sudah bersahabat sejak kecil . lalu mereka berencana melakukan traveling ke suatu tempat namun ternyata harus berurusan dengan para gangster. nah bagaimana alur cerita yuk guys kita simak ceritanya"
+    },
+    {
+      "id": 58,
+      "name_category": "FILM SEMI",
+      "title": "CINA ROMANTIS",
+      "image": "https://ia601406.us.archive.org/15/items/ada-w-1-kw-k-nya-7-film-petualangan-yang-menampil-kan-adegan-kamar-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/Daftar%2010%20Film%20Semi%20China%20Romantis%2C%20Wuxia%20%26%20Fantasy.mp4",
+      "description": "Film ini Petualangan Yang MenampilKan Adegan Kamar"
+    },
+    {
+      "id": 59,
+      "name_category": "FILM SEMI",
+      "title": "FULL HOT 18+",
+      "image": "https://ia601501.us.archive.org/4/items/bukan-rekayasa-8-film-tentang-hubungan-antara-bos-dan-karyawannya-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/%5BFULL%20HOT%2018%2B%5D%20Adegan%20Ciuman%20Clara%20Bernadeth%20%26%20Giorgino%20Abraham%20di%20Film.mp4",
+      "description": "Film ini mengisahkan sebuah keluarga baru yang suatu ketika kedatangan oleh seseorang yang sangat misterius , nah apakah yang akan terjadi , simak video ini hingga usai"
+    },
+    {
+      "id": 60,
+      "name_category": "FILM SEMI",
+      "title": "NO SENSOR CIUMAN NIKITA MIRZANI",
+      "image": "https://ia601400.us.archive.org/11/items/lagi-tanpa-sensor-paling-panas-7-film-perselingkuhan-dengan-tetangga-rumah-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/%5BNO%20SENSOR%5D%20Adegan%20Ciuman%20Nikita%20Mirzani%20di%20Film%20Drakula%20Cinta.mp4",
+      "description": "Tina dan Ethan telah bersama selama 14 tahun. . Mereka adalah yang pertama bagi satu sama lain, dan bagi teman-teman mereka, mereka adalah pasangan yang sempurna. Ketika keduanya mulai merasa bahwa hubungan mereka telah basi, mereka mengeksplorasi gagasan untuk terbuka. Itu sesuatu yang ingin dilakukan Ethan,. Mereka setuju bahwa mereka diperbolehkan untuk ceplak ceplok dengan orang asing, tetapi mereka tidak diperbolehkan untuk jatuh cinta. Dalam hubungan yang dibangun dari waktu ke waktu, keduanya mulai berharap untuk menyelamatkan hal yang sama persis yang mereka serahkan. Pada akhirnya, mereka belajar pentingnya hal yang selama ini mereka buta -- hubungan tanpa kepercayaan pada akhirnya akan hancur"
+    },
+    {
+      "id": 61,
+      "name_category": "FILM SEMI",
+      "title": "Film Adegan W 1 KW!k Dengan",
+      "image": "https://ia601400.us.archive.org/33/items/8-film-adegan-w-1-kwk-dengan-alur-cerita-yang-menarik-daftar-film/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/10-drama-china-terbaik-yang-dibintangi-dilraba-dilmurat/10%20Drama%20China%20Terbaik%20Yang%20Dibintangi%20Dilraba%20Dilmurat.mp4",
+      "description": "ini mengisahkan kisah cinta antara 2 karyawan di tempat bekerja , suatu ketika ada kejadian yang akhirnya memisahkan mereka , apakah yang akan terjadi dengan cerita sedih ini , silahkan simak video ini hingga usai"
     }
-  ]
+    ]
 }
